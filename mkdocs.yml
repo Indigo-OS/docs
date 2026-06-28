@@ -1,4 +1,4 @@
 site_name: My site
-site_url: https://docs.indigo-os.github.io/
+site_url: https://indigo-os.github.io/docs/
 theme:
   name: material
